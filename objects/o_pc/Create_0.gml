@@ -1,0 +1,1 @@
+global.pc_activated = false;

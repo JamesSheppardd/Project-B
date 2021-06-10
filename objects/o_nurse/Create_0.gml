@@ -1,0 +1,1 @@
+sprite_index = s_nurse_still_s

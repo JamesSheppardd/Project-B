@@ -1,0 +1,1 @@
+global.playermove = 1;

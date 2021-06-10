@@ -1,0 +1,1 @@
+global.buy = 0;

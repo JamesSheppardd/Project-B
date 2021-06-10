@@ -1,0 +1,1 @@
+draw_text(o_fish.x+3,o_fish.y-100, "x" + string(global.fish_count));

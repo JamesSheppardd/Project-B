@@ -1,0 +1,1 @@
+sprite_index = s_Quiz2_Pick1;

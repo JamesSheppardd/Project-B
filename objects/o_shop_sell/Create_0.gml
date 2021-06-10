@@ -1,0 +1,1 @@
+global.sell = 0;

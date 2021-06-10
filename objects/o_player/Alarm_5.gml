@@ -1,0 +1,1 @@
+instance_destroy(o_Go_Home_Text);

@@ -1,0 +1,1 @@
+path_start(pth_Doctor_hospital, 2, path_action_stop,1);

@@ -1,0 +1,1 @@
+instance_deactivate_object(o_Police)

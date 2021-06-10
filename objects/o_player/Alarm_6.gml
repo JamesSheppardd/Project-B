@@ -1,0 +1,1 @@
+global.NpcBlock = 0;
